@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Wie viele Bits sind in einem Byte?",
+        "answers": ["4", "8", "16", "32"],
+        "correct": 1
+    },
+    {
+        "question": "Was ist die maximale Zahl, die man mit 8 Bit darstellen kann?",
+        "answers": ["255", "256", "128", "512"],
+        "correct": 0
+    },
+    {
+        "question": "Welches ist das niederwertigste Bit in einem Byte?",
+        "answers": ["Bit 0", "Bit 1", "Bit 7", "Bit 8"],
+        "correct": 0
+    },
+    {
+        "question": "Was bedeutet der Begriff 'overflow' im Zusammenhang mit dem 8-Bit-System?",
+        "answers": [
+            "Die Speicherung eines Werts über 255",
+            "Eine falsche Antwort",
+            "Ein Speicherfehler",
+            "Ein Byte unterläuft"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Wie viele verschiedene Werte kann ein 8-Bit-System darstellen?",
+        "answers": ["128", "256", "512", "1024"],
+        "correct": 1
+    },
+    {
+        "question": "Welcher dieser Werte entspricht in einem 8-Bit-System der binären Darstellung '11111111'?",
+        "answers": ["128", "255", "256", "512"],
+        "correct": 1
+    },
+    {
+        "question": "Was ist ein Bit?",
+        "answers": [
+            "Die kleinste Speichereinheit",
+            "Ein Zeichen in einem Byte",
+            "Eine Zahl in einem Programm",
+            "Eine Anweisung für den Prozessor"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Wie viele Zustände kann ein Bit haben?",
+        "answers": ["1", "2", "4", "8"],
+        "correct": 1
+    },
+    {
+        "question": "Was ist ein Nibble?",
+        "answers": ["2 Bit", "4 Bit", "6 Bit", "8 Bit"],
+        "correct": 1
+    },
+    {
+        "question": "Welche Basis hat das binäre Zahlensystem?",
+        "answers": ["2", "8", "10", "16"],
+        "correct": 0
+    },
+    {
+        "question": "Wie viele Nibbles passen in ein Byte?",
+        "answers": ["1", "2", "4", "8"],
+        "correct": 1
+    },
+    {
+        "question": "Welcher der folgenden Begriffe steht für ein Byte?",
+        "answers": ["8 Bit", "1 Kilobyte", "1 Megabyte", "16 Bit"],
+        "correct": 0
+    }
+]

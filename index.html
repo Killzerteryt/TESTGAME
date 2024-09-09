@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8-Bit Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>8-Bit System Quiz</h1>
+        <div id="quiz-container">
+            <div id="question-box">
+                <p id="question-text"></p>
+            </div>
+            <div id="answer-box"></div>
+            <button id="next-btn" onclick="nextQuestion()">Weiter</button>
+        </div>
+        <div id="result-box">
+            <h2 id="result"></h2>
+            <button id="restart-btn" onclick="restartQuiz()">Neustart</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
